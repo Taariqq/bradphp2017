@@ -2,6 +2,7 @@
 // three types a) indexed, b) associative and c) multi-dimensional
 
 //  indexed arrays
+// changes to test shell theme
 $people = array('Keving', 'Jeremy', 'Sara');
 //echo $people[1];
 $ids = array(23, 55, 12);
