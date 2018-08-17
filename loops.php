@@ -1,5 +1,5 @@
 <?php 
-// for, while, do while, foreach
+// for, while, do..while, foreach
 # for loop
 # @params - init, condition, increment
 /*
@@ -32,13 +32,13 @@ while($i < 10);
 
 # Foreach - works with arrays
 
-/*
+
 $people = ['Brad', 'Jose', 'William'];
 
-foreach($people as $person){
-  echo $person . '<br>';
+foreach($people as $pos => $person){
+  echo $pos.' '.$person . '<br>';
 } 
-*/
+
 
 $people = ['Brad' => 'brad@gmail.com', 'Jose' => 'jose@yahoo.com', 'William' => 'william@hotmail.com'];
 
@@ -47,7 +47,7 @@ foreach($people as $person => $email){
 } 
 
 
-
+ 
 
 
 

@@ -41,13 +41,14 @@ var_dump($people);
 
 // multi dimentional arrays
 
-$cars = array(
+$cars = [
   array('honda', 20, 10),
   array('toyota', 30, 20),
   array('ford', 23, 12),  
-);
+];
 
-echo $cars[0][0];
+echo $cars[0][0] . '<br>';
+echo $cars[2][1];
 
 
 

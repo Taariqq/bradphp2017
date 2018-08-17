@@ -1,11 +1,11 @@
 <h1>
-<?php 
+  <?php 
 echo 'Hello, World!<br>';
   
   $string1 = 'Hello, ';
   $string2 = 'World!';
   
-  echo $greeting ="$string1  $string2";
+  echo $greeting ="$string1$string2";
   ?>
-  
-  </h1>
+
+</h1>
