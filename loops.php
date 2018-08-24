@@ -43,7 +43,7 @@ foreach($people as $pos => $person){
 $people = ['Brad' => 'brad@gmail.com', 'Jose' => 'jose@yahoo.com', 'William' => 'william@hotmail.com'];
 
 foreach($people as $person => $email){
-  echo $person.' '.$email. '<br>';
+  echo $person.': '.$email. '<br>';
 } 
 
 

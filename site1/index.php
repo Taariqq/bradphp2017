@@ -1,20 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Brad Course</title>
-</head>
-<body>
- <ul>
-   <li><a href="index.php">Home</a></li>
-   <li><a href="about.php">About</a></li>
-   <li><a href="contact.php">Contact</a></li>
- </ul>
- <h1>Home</h1>
- 
- <footer>
-   <p>taariqq &copy; 2018</p>
- </footer>
-  
-</body>
-</html>
+<?php include 'inc/header.php'; ?>
+<h1>Home</h1>
+<?php include 'inc/footer.php'; ?>
+<p>include -  will display error and continue the script after, if an error is encountered.
+</p>

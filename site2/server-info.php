@@ -27,4 +27,7 @@ $client = [
 echo '$client <pre>';
 print_r($client);
 echo '<pre>';
+
+// phpinfo()
+
 ?>
