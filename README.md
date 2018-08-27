@@ -5,3 +5,4 @@
 * Aug 23, 2018 - finished movie #12, string functions
 * Aug 24, 2018 - finish movie #13, ternary & shorthand
 * Aug 25, 2018 - finish movie #14, filters & sanitize data
+* Aug 26       - finich movie #15, create contact form
