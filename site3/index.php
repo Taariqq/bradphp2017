@@ -66,9 +66,9 @@
 <body>
   <nav class="navbar navbar-default">
     <?php if($msg != ''): ?>
-    <div class="alert <?php echo $msgClass; ?>">
-      <?php echo $msg; ?>
-    </div>
+      <div class="alert <?php echo $msgClass; ?>">
+        <?php echo $msg; ?>
+      </div>
     <?php endif; ?>
     <div class="container">
       <div class="navbar-header">
@@ -98,3 +98,35 @@
 </body>
 
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
