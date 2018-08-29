@@ -7,3 +7,4 @@
 * Aug 25, 2018 - finish movie #14, filters & sanitize data
 * Aug 26       - finish movie #15, create contact form
 * Aug 27 - finish movie #16, sessions
+* Aug 28 - finish movie #17, cookies
