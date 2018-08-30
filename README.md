@@ -8,3 +8,4 @@
 * Aug 26       - finish movie #15, create contact form
 * Aug 27 - finish movie #16, sessions
 * Aug 28 - finish movie #17, cookies
+* Aug 29 - finish movie #18, AJAX & PHP
