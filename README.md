@@ -12,3 +12,5 @@
 * Aug 30 - finish movie #19, File System Functions
 * Aug 31 - partially finish movie #20, OOP PHP
 * Sept 1 - finish OOP movie #20
+* Sept 2 - spent time figuring out DBeaver for database analysis
+* Sept 3 - finish movie #21, fetching data with MySQLi
